@@ -1,5 +1,5 @@
 # Hackpad
-Yo Guyss , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical] with 4x EC11 Rotary Encoders And 1x OLED Diplay...
+Hey, this is a MACROPAD That Includes 6 Keys [Mechanical] with 4x EC11 Rotary Encoders And 1x OLED Diplay...
 
 # FEATURES 
 1->> Full Of Functionable Keys 6 </n>
@@ -50,8 +50,5 @@ Yo Guyss , This Is A MACROPAD Named DevBoard X That Includes 6 Keys [Mechanical]
 
 
 
-**IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
-
 **Total Estimated Cost**: `$22 WITH SHIPPING CHARGES INCLUDED`
-I'm only asking for pcb cost as you guys said.
 
