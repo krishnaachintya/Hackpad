@@ -1,0 +1,15 @@
+### Footprint positions - created on 2025-10-23T01:10:58+0530 ###
+### Printed by KiCad version 9.0.4
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                              PosX       PosY       Rot  Side
+J2        Conn_01x04_Pin        PinHeader_1x04_P1.00mm_Vertical                  145.2563   -90.8687    0.0000  top
+SW1       SW_Push               SW_Cherry_MX_1.00u_PCB                           130.6195  -128.2700    0.0000  top
+SW2       SW_Push               SW_Cherry_MX_1.00u_PCB                           149.6695  -128.2700    0.0000  top
+SW3       SW_Push               SW_Cherry_MX_1.00u_PCB                           168.7195  -128.2700    0.0000  top
+SW4       SW_Push               SW_Cherry_MX_1.00u_PCB                           130.6195  -109.2200    0.0000  top
+SW5       SW_Push               SW_Cherry_MX_1.00u_PCB                           149.6695  -109.2200    0.0000  top
+SW6       SW_Push               SW_Cherry_MX_1.00u_PCB                           168.7195  -109.2200    0.0000  top
+SW7       RotaryEncoder_Switch  RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm   120.7660   -89.5000    0.0000  top
+U1        XIAO-RP2040-DIP       XIAO-RP2040-DIP                                  166.2500   -88.2000    0.0000  top
+## End
